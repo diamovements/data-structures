@@ -1,0 +1,21 @@
+# ninja log v5
+0	864	7184529801570118	CMakeFiles/practice_six.dir/main.cpp.obj	92498bfbbb29141d
+866	1065	7184529803539902	practice_six.exe	b21a58200cee5e4f
+3	666	7184530259473909	CMakeFiles/practice_six.dir/main.cpp.obj	92498bfbbb29141d
+666	780	7184530260583589	practice_six.exe	b21a58200cee5e4f
+3	650	7184531923605011	CMakeFiles/practice_six.dir/main.cpp.obj	92498bfbbb29141d
+651	766	7184531924716916	practice_six.exe	b21a58200cee5e4f
+7	1294	7184534272787110	CMakeFiles/practice_six.dir/main.cpp.obj	92498bfbbb29141d
+1295	1505	7184534274829627	practice_six.exe	b21a58200cee5e4f
+7	1471	7184534564927679	CMakeFiles/practice_six.dir/main.cpp.obj	92498bfbbb29141d
+1473	1698	7184534567114761	practice_six.exe	b21a58200cee5e4f
+7	1200	7184536736800612	CMakeFiles/practice_six.dir/main.cpp.obj	92498bfbbb29141d
+1201	1389	7184536738640303	practice_six.exe	b21a58200cee5e4f
+7	1231	7184536965874600	CMakeFiles/practice_six.dir/main.cpp.obj	92498bfbbb29141d
+1232	1449	7184536968008013	practice_six.exe	b21a58200cee5e4f
+6	1100	7184544828897761	CMakeFiles/practice_six.dir/main.cpp.obj	92498bfbbb29141d
+1101	1299	7184544830840098	practice_six.exe	b21a58200cee5e4f
+9	1210	7184545256695579	CMakeFiles/practice_six.dir/main.cpp.obj	92498bfbbb29141d
+1211	1396	7184545258494454	practice_six.exe	b21a58200cee5e4f
+7	1233	7184545389297824	CMakeFiles/practice_six.dir/main.cpp.obj	92498bfbbb29141d
+1234	1466	7184545391531173	practice_six.exe	b21a58200cee5e4f
