@@ -1,0 +1,3 @@
+C:/Users/karin/CLionProjects/pr8/cmake-build-debug/CMakeFiles/pr8.dir
+C:/Users/karin/CLionProjects/pr8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/karin/CLionProjects/pr8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
